@@ -21,3 +21,4 @@ Todas las aplicaciones están configuradas con el tema **Tokyo Night** para mant
 - **Transparencias**: Las ventanas inactivas son transparentes para facilitar el enfoque en la ventana activa.
 - **Bordes**: Las ventanas activas tienen un borde oscuro para diferenciarse de las inactivas.
 
+![Mi configuración de Hyprland con Tokyo Night](images/Setup.png)
